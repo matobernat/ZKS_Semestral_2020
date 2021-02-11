@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8e1b1a3-ca80-4f07-bf7c-00597703ef9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cypress/integration/ZKS/tests/parametrized/registration_form_parametrized.ts" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1oGh3jDFjg4RyIuyJs4p31L2F1d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/fixtures" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress/fixtures" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cypress/integration/screenplay" />
+      <recent name="$PROJECT_DIR$/cypress/e2e/PageObjects" />
+      <recent name="$PROJECT_DIR$/cypress/integration/ZKS/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress/integration/ZKS/tests/_tests_" />
+      <recent name="$PROJECT_DIR$/cypress/integration/ZKS/tests/parametrized" />
+      <recent name="$PROJECT_DIR$/cypress/integration/screenplay/_tests_" />
+      <recent name="$PROJECT_DIR$/cypress/integration" />
+      <recent name="$PROJECT_DIR$/cypress/e2e" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8e1b1a3-ca80-4f07-bf7c-00597703ef9e" name="Default Changelist" comment="" />
+      <created>1612918637906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612918637906</updated>
+      <workItem from="1612918638998" duration="42809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cypress/integration/screenplay/_tests_/example.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="451" key="Github.CreateGistDialog" timestamp="1613064681857">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="646" y="451" key="Github.CreateGistDialog/0.0.1680.1050/-488.-1440.2560.1440@0.0.1680.1050" timestamp="1613064681857" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1613064849819">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-488.-1417.2560.1417@0.0.1680.1050" timestamp="1612920345508" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-488.-1440.2560.1440@0.0.1680.1050" timestamp="1613064849819" />
+    <state x="114" y="23" width="1483" height="1027" key="dock-window-1" timestamp="1612997053396">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="114" y="23" width="1483" height="1027" key="dock-window-1/0.23.1680.1027/-488.-1417.2560.1417@0.23.1680.1027" timestamp="1612997053396" />
+    <state x="538" y="157" width="604" height="735" key="find.popup" timestamp="1613064864070">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="157" width="604" height="735" key="find.popup/0.0.1680.1050/-488.-1440.2560.1440@0.0.1680.1050" timestamp="1613064864070" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1613000960737">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050/-488.-1440.2560.1440@0.0.1680.1050" timestamp="1613000960737" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1612972741261">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050/-488.-1440.2560.1440@0.0.1680.1050" timestamp="1612972741261" />
+  </component>
+</project>

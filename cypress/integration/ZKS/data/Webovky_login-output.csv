@@ -1,0 +1,15 @@
+# ACTS Test Suite Generation: Wed Feb 10 23:32:03 CET 2021
+#  '*' represents don't care value 
+# Degree of interaction coverage: 2
+# Number of parameters: 2
+# Maximum number of values per parameter: 4
+# Number of configurations: 8
+email,password
+matohrasko@gmail.com,mamam
+matohrasko@gmail.com,mama
+matohraskogmail.com,mamam
+matohraskogmail.com,mama
+matohrasko@.com,mamam
+matohrasko@.com,mama
+matkohraskofalse@gmail.com,mamam
+matkohraskofalse@gmail.com,mama

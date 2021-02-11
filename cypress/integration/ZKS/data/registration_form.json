@@ -1,0 +1,156 @@
+[
+  {
+    "meno": "Martin",
+    "priezvisko": "Hrasko",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "true",
+    "heslo": "mamam",
+    "potvrd_heslo": "true",
+    "expect": "true"
+  },
+  {
+    "meno": "",
+    "priezvisko": "",
+    "email": "matohraskogmail.com",
+    "potvrd_email": "false",
+    "heslo": "mamam",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "",
+    "priezvisko": "Hrasko",
+    "email": "matohrasko@gmail",
+    "potvrd_email": "true",
+    "heslo": "mama",
+    "potvrd_heslo": "true",
+    "expect": "false"
+
+  },
+  {
+    "meno": "",
+    "priezvisko": "HraskoHraskoHraskoHraskoHraskoHra",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "false",
+    "heslo": "mama",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "",
+    "priezvisko": "Hrasko123",
+    "email": "matohraskogmail.com",
+    "potvrd_email": "true",
+    "heslo": "mamam",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin",
+    "priezvisko": "",
+    "email": "matohrasko@gmail",
+    "potvrd_email": "false",
+    "heslo": "mama",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin",
+    "priezvisko": "Hrasko",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "true",
+    "heslo": "mamam",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin",
+    "priezvisko": "HraskoHraskoHraskoHraskoHraskoHra",
+    "email": "matohraskogmail.com",
+    "potvrd_email": "true",
+    "heslo": "mama",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin",
+    "priezvisko": "Hrasko123",
+    "email": "matohrasko@gmail",
+    "potvrd_email": "false",
+    "heslo": "mamam",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "MartinMartinMartinMartinMartinMar",
+    "priezvisko": "",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "true",
+    "heslo": "mama",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  },
+  {
+    "meno": "MartinMartinMartinMartinMartinMar",
+    "priezvisko": "Hrasko",
+    "email": "matohraskogmail.com",
+    "potvrd_email": "false",
+    "heslo": "mamam",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "MartinMartinMartinMartinMartinMar",
+    "priezvisko": "HraskoHraskoHraskoHraskoHraskoHra",
+    "email": "matohrasko@gmail",
+    "potvrd_email": "false",
+    "heslo": "mamam",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "MartinMartinMartinMartinMartinMar",
+    "priezvisko": "Hrasko123",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "true",
+    "heslo": "mama",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin123",
+    "priezvisko": "",
+    "email": "matohraskogmail.com",
+    "potvrd_email": "true",
+    "heslo": "mamam",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin123",
+    "priezvisko": "Hrasko",
+    "email": "matohrasko@gmail",
+    "potvrd_email": "false",
+    "heslo": "mama",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin123",
+    "priezvisko": "HraskoHraskoHraskoHraskoHraskoHra",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "false",
+    "heslo": "mama",
+    "potvrd_heslo": "false",
+    "expect": "false"
+  },
+  {
+    "meno": "Martin123",
+    "priezvisko": "Hrasko123",
+    "email": "matohrasko@gmail.com",
+    "potvrd_email": "false",
+    "heslo": "mamam",
+    "potvrd_heslo": "true",
+    "expect": "false"
+  }
+]

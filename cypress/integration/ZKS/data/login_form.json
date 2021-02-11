@@ -1,0 +1,42 @@
+[{
+  "email": "matohrasko@gmail.com",
+  "password": "mamam",
+  "expect": "1"
+},
+  {
+    "email": "matohrasko@gmail.com",
+    "password": "mama",
+    "expect": "0"
+  },
+  {
+    "email": "matohraskogmail.com",
+    "password": "mamam",
+    "expect": "0"
+  },
+  {
+    "email": "matohraskogmail.com",
+    "password": "mama",
+    "expect": "0"
+  },
+  {
+    "email": "matohrasko@.com",
+    "password": "mamam",
+    "expect": "0"
+  },
+  {
+    "email": "matohrasko@.com",
+    "password": "mama",
+    "expect": "0"
+  },
+  {
+    "email": "matohraskofalse@gmail.com",
+    "password": "mamam",
+    "expect": "0"
+  },
+  {
+    "email": "matohraskofalse@gmail.com",
+    "password": "mama",
+    "expect": "0"
+  }
+
+]
